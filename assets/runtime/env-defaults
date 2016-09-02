@@ -1,0 +1,10 @@
+export TENDENCI_VERSION=7.2.34
+export TENDENCI_USER="tendenci"
+export TENDENCI_HOME="/home/${TENDENCI_USER}"
+export TENDENCI_LOG_DIR="${TENDENCI_HOME}/log"
+export TENDENCI_INSTALL_DIR="${TENDENCI_HOME}/install"
+export TENDENCI_DATA_DIR="${TENDENCI_HOME}/data"
+export TENDENCI_BUILD_DIR="${TENDENCI_HOME}/build"
+export TENDENCI_VIRTUALENV="${TENDENCI_HOME}/virtualenv"
+export TENDENCI_RUNTIME_DIR="${TENDENCI_HOME}/runtime"
+export APP_NAME="default"
